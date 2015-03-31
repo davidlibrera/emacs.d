@@ -1,5 +1,6 @@
 (source melpa)
 
+(depends-on "ag")
 (depends-on "auto-complete")
 (depends-on "cask")
 (depends-on "dash")
