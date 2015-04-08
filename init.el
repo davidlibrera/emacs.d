@@ -7,3 +7,4 @@
 (load "00global-setup.el")
 (load "01flx-ido.el")
 (load "02gui-config.el")
+(load "03navigation.el")
