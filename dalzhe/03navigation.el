@@ -8,4 +8,4 @@
 ;; helm
 (global-set-key "\C-x\C-b" 'helm-mini)
 
-(global-set-key (kbd "C-ò") 'er/expand-region)
+(global-set-key [C-ò] 'er/expand-region)

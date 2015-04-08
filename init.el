@@ -9,3 +9,4 @@
 (load "02gui-config.el")
 (load "03navigation.el")
 (load "04undo.el")
+(load "05speedbar.el")

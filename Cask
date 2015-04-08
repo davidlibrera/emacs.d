@@ -17,5 +17,6 @@
 (depends-on "projectile")
 (depends-on "s")
 (depends-on "shut-up")
+(depends-on "sr-speedbar")
 (depends-on "undo-tree")
 (depends-on "web-mode")
