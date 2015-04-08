@@ -20,4 +20,5 @@
 (depends-on "shut-up")
 (depends-on "sr-speedbar")
 (depends-on "undo-tree")
+(depends-on "visual-regexp")
 (depends-on "web-mode")

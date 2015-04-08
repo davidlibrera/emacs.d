@@ -11,3 +11,5 @@
 (load "04undo.el")
 (load "05speedbar.el")
 (load "06magit.el")
+(load "07smart-tab.el")
+(load "08visual-regexp.el")
