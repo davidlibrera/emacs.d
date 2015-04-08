@@ -5,7 +5,7 @@
 (if (fboundp 'menu-bar-mode) (menu-bar-mode -1))            ; No menu bar
 (set-default 'cursor-type 'bar)                             ; Bar Cursor
 (blink-cursor-mode -1)                                      ; the blinking cursor is nothing, but an annoyance
-
+(set-cursor-color "#ffffff")
 ;; Nice scrolling
 (setq scroll-margin 0
       scroll-conservatively 10000
