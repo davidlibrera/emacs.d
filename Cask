@@ -11,6 +11,7 @@
 (depends-on "flx-ido")
 (depends-on "helm")
 (depends-on "highlight-indentation")
+(depends-on "magit")
 (depends-on "molokai-theme")
 (depends-on "package-build")
 (depends-on "pallet")
