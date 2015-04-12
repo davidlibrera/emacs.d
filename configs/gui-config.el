@@ -28,11 +28,6 @@
 
 (if (fboundp 'fringe-mode) (fringe-mode 0))
 
-(load "highlight-indentation")
-(set-face-background 'highlight-indentation-face "#292929")
-(set-face-background 'highlight-indentation-current-column-face "#333333")
-
-
 (load-theme 'molokai t)
 (setq default-frame-alist
       (append default-frame-alist

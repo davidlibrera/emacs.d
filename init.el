@@ -15,6 +15,7 @@
 (load "configs/neotree")
 (load "configs/visual-regexp")
 (load "configs/defuns")
+(load "configs/indent-guide")
 (load "configs/yasnippets")
 (load "configs/bindings")
 

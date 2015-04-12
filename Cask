@@ -11,7 +11,7 @@
 (depends-on "f")
 (depends-on "flx-ido")
 (depends-on "helm")
-(depends-on "highlight-indentation")
+(depends-on "indent-guide")
 (depends-on "magit")
 (depends-on "molokai-theme")
 (depends-on "move-text")
