@@ -26,3 +26,4 @@
 (depends-on "undo-tree")
 (depends-on "visual-regexp")
 (depends-on "web-mode")
+(depends-on "yasnippet")
