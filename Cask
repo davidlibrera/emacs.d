@@ -21,6 +21,7 @@
 (depends-on "s")
 (depends-on "sass-mode")
 (depends-on "shut-up")
+(depends-on "smartparens")
 (depends-on "sr-speedbar")
 (depends-on "undo-tree")
 (depends-on "visual-regexp")
