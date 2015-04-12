@@ -9,7 +9,6 @@
 (load "configs/gui-config")
 (load "configs/navigation")
 (load "configs/undo")
-(load "configs/speedbar")
 (load "configs/magit")
 (load "configs/smart-tab")
 (load "configs/smartparens")
