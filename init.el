@@ -12,6 +12,7 @@
 (load "configs/magit")
 (load "configs/smart-tab")
 (load "configs/smartparens")
+(load "configs/neotree")
 (load "configs/visual-regexp")
 (load "configs/defuns")
 (load "configs/bindings")

@@ -15,6 +15,7 @@
 (depends-on "magit")
 (depends-on "molokai-theme")
 (depends-on "move-text")
+(depends-on "neotree")
 (depends-on "package-build")
 (depends-on "pallet")
 (depends-on "projectile")
