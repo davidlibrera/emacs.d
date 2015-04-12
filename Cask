@@ -19,6 +19,7 @@
 (depends-on "pallet")
 (depends-on "projectile")
 (depends-on "s")
+(depends-on "sass-mode")
 (depends-on "shut-up")
 (depends-on "sr-speedbar")
 (depends-on "undo-tree")
