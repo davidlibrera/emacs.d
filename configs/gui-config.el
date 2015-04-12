@@ -5,7 +5,6 @@
 (if (fboundp 'menu-bar-mode) (menu-bar-mode -1))            ; No menu bar
 (set-default 'cursor-type 'bar)                             ; Bar Cursor
 (blink-cursor-mode -1)                                      ; the blinking cursor is nothing, but an annoyance
-(set-cursor-color "#ffffff")
 ;; Nice scrolling
 (setq scroll-margin 0
       scroll-conservatively 10000
@@ -33,4 +32,9 @@
 (set-face-background 'highlight-indentation-face "#292929")
 (set-face-background 'highlight-indentation-current-column-face "#333333")
 
+
 (load-theme 'molokai t)
+(setq default-frame-alist
+      (append default-frame-alist
+              '((cursor-color . "white")))
+)
