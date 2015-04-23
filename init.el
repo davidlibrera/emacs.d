@@ -20,3 +20,4 @@
 (load "configs/bindings")
 
 (load "modes/web-mode")
+(load "modes/js-mode")
