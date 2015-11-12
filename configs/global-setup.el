@@ -1,3 +1,7 @@
+;; Navigate between windows using Alt-left, Alt-up, Alt-right
+;; Must be after move-text bindings
+(windmove-default-keybindings 'meta)
+
 ;; Enable copy and pasting from clipboard
 (setq x-select-enable-clipboard t)
 
@@ -35,3 +39,5 @@
 ;; Files
 (setq backup-inhibited t)		; No standard backup files
 (setq auto-save-default nil)		; disable auto save
+
+(add-hook 'before-save-hook 'whitespace-cleanup)

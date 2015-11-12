@@ -18,6 +18,8 @@
 (load "configs/indent-guide")
 (load "configs/yasnippets")
 (load "configs/bindings")
+(load "configs/rbenv")
 
-(load "modes/web-mode")
 (load "modes/js-mode")
+(load "modes/ruby-mode")
+(load "modes/web-mode")
