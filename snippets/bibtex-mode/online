@@ -1,0 +1,8 @@
+@online{$1,
+ title = {$2},
+ year = {$3},
+ url = {$4},
+ sortkey = {$5},
+ label = {$6},
+ author = {$7}
+}

@@ -18,4 +18,4 @@
 (setq auto-mode-alist (cons '("Gemfile" . enh-ruby-mode) auto-mode-alist))
 (setq auto-mode-alist (cons '("\\.rake" . enh-ruby-mode) auto-mode-alist))
 (setq auto-mode-alist (cons '("\\.gemspec" . enh-ruby-mode) auto-mode-alist))
-(setq auto-mode-alist (cons '("\\.jbuilder" . enh-ruby-mode) auto-mode-alist))
+(setq auto-mode-alist (cons '("\\.builder" . enh-ruby-mode) auto-mode-alist))

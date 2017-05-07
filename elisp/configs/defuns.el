@@ -1,5 +1,5 @@
 ;; Additional functions
-(defun kill-all-buffers ()
+(defun kab ()
   "kill all buffers"
   (interactive)
   (mapcar (lambda (x) (kill-buffer x))

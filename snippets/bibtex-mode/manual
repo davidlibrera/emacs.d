@@ -1,0 +1,6 @@
+@manual{$1,
+  author = {$2},
+  title = {$3},
+  year = {$4},
+  url = {$5}
+}

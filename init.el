@@ -24,3 +24,10 @@
 (load "modes/js-mode")
 (load "modes/ruby-mode")
 (load "modes/web-mode")
+(put 'scroll-left 'disabled nil)
+
+
+(setq x-super-keysym 'meta)
+
+(set-face-attribute 'default nil
+                    :family "Ubuntu Mono" :height 150 :weight 'normal)

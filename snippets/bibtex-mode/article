@@ -1,0 +1,8 @@
+@article{$1,
+ author = {$2},
+ title = {$3},
+ journaltitle = {$4},
+ volume = {$5},
+ number = {$6},
+ year = {$7}
+}
