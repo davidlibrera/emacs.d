@@ -37,4 +37,4 @@
 (setq x-super-keysym 'meta)
 
 (set-face-attribute 'default nil
-                    :family "Ubuntu Mono" :height 150 :weight 'normal)
+                    :family "Ubuntu Mono" :height 110 :weight 'normal)
