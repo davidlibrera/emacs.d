@@ -16,6 +16,7 @@
 (setq auto-mode-alist (cons '("Capfile" . enh-ruby-mode) auto-mode-alist))
 (setq auto-mode-alist (cons '("Guardfile" . enh-ruby-mode) auto-mode-alist))
 (setq auto-mode-alist (cons '("Gemfile" . enh-ruby-mode) auto-mode-alist))
+(setq auto-mode-alist (cons '("Cheffile" . enh-ruby-mode) auto-mode-alist))
 (setq auto-mode-alist (cons '("\\.rake" . enh-ruby-mode) auto-mode-alist))
 (setq auto-mode-alist (cons '("\\.gemspec" . enh-ruby-mode) auto-mode-alist))
 (setq auto-mode-alist (cons '("\\.builder" . enh-ruby-mode) auto-mode-alist))
