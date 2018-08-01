@@ -14,6 +14,7 @@
 (depends-on "emojify")
 (depends-on "enh-ruby-mode")
 (depends-on "epl")
+(depends-on "evil")
 (depends-on "expand-region")
 (depends-on "f")
 (depends-on "flx-ido")
