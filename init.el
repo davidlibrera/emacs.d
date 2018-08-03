@@ -26,6 +26,7 @@
 (load "configs/bindings")
 (load "configs/rbenv")
 (load "configs/ace-jump")
+(load "configs/evil")
 
 (load "modes/js-mode")
 (load "modes/ruby-mode")
