@@ -17,6 +17,7 @@
 (depends-on "evil")
 (depends-on "expand-region")
 (depends-on "f")
+(depends-on "fill-column-indicator")
 (depends-on "flx-ido")
 (depends-on "helm")
 (depends-on "highlight-current-line")

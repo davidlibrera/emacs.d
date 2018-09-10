@@ -26,6 +26,7 @@
 (load "configs/bindings")
 (load "configs/rbenv")
 (load "configs/ace-jump")
+(load "configs/fill-columns")
 (load "configs/evil")
 
 (load "modes/js-mode")
@@ -45,7 +46,7 @@
  ;; If there is more than one, they won't work right.
  '(package-selected-packages
    (quote
-    (flymd markdown-mode+ yasnippet yaml-mode web-mode visual-regexp smartparens slim-mode sass-mode ruby-tools ruby-hash-syntax rspec-mode rbenv projectile pallet neotree move-text molokai-theme markdown-preview-mode markdown-preview-eww magit indent-guide helm flx-ido expand-region evil enh-ruby-mode emojify elixir-mode coffee-mode auto-complete ag ace-jump-mode))))
+    (fill-column-indicator flymd markdown-mode+ yasnippet yaml-mode web-mode visual-regexp smartparens slim-mode sass-mode ruby-tools ruby-hash-syntax rspec-mode rbenv projectile pallet neotree move-text molokai-theme markdown-preview-mode markdown-preview-eww magit indent-guide helm flx-ido expand-region evil enh-ruby-mode emojify elixir-mode coffee-mode auto-complete ag ace-jump-mode))))
 (custom-set-faces
  ;; custom-set-faces was added by Custom.
  ;; If you edit it by hand, you could mess it up, so be careful.
