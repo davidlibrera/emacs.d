@@ -31,6 +31,7 @@
 
 (load "modes/js-mode")
 (load "modes/ruby-mode")
+(load "modes/slim-mode")
 (load "modes/web-mode")
 (put 'scroll-left 'disabled nil)
 
