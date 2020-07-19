@@ -1,0 +1,4 @@
+#name : log variable name and inspected contents
+#group : general
+# --
+Logger.info "${1:}: #{inspect($1, [pretty: true, width: 0])}"$0

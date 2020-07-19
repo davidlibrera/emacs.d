@@ -1,0 +1,4 @@
+#name : puts ""
+#group : general
+# --
+Logger.info "${1:}"$0

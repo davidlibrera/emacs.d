@@ -1,0 +1,4 @@
+#name : print variable name and inspected contents
+#group : general
+# --
+require IEx; IEx.pry
