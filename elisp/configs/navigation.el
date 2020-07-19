@@ -1,5 +1,5 @@
 (projectile-global-mode)
-(setq projectile-indexing-method 'find)
+(setq projectile-indexing-method 'alien)
 
 (global-set-key "\C-x\C-g" 'projectile-find-file)
 (global-set-key "\C-x\C-a" 'projectile-ag)
