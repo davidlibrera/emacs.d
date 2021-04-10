@@ -1,5 +1,10 @@
 ;; Navigate between windows using Alt-left, Alt-up, Alt-right
 ;; Must be after move-text bindings
+(global-set-key (kbd "ESC <up>") 'windmove-up)
+(global-set-key (kbd "ESC <down>") 'windmove-down)
+(global-set-key (kbd "ESC <right>") 'windmove-right)
+(global-set-key (kbd "ESC <left>") 'windmove-left)
+
 (windmove-default-keybindings 'meta)
 
 ;; Enable copy and pasting from clipboard
