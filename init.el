@@ -5,6 +5,7 @@
 
 (add-to-list 'load-path "~/.emacs.d/elisp/")
 
+(load "configs/global-setup")
 (load "configs/gui-config")
 
 (custom-set-variables
