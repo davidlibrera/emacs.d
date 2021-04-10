@@ -13,6 +13,7 @@
 (depends-on "htmlize")
 (depends-on "idle-highlight-mode")
 (depends-on "magit")
+(depends-on "molokai-theme")
 (depends-on "multiple-cursors")
 (depends-on "nyan-mode")
 (depends-on "pallet")
