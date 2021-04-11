@@ -9,6 +9,7 @@
 (load "configs/gui-config")
 (load "configs/evil")
 (load "configs/navigation")
+(load "configs/flx-ido")
 
 (custom-set-variables
  ;; custom-set-variables was added by Custom.
