@@ -8,6 +8,7 @@
 (load "configs/global-setup")
 (load "configs/gui-config")
 (load "configs/evil")
+(load "configs/navigation")
 
 (custom-set-variables
  ;; custom-set-variables was added by Custom.
