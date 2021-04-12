@@ -36,6 +36,7 @@
 (depends-on "s")
 (depends-on "seq" "1.11")
 (depends-on "shut-up" "0.1.0")
+(depends-on "smart-tab")
 (depends-on "smartparens")
 (depends-on "smex")
 (depends-on "transient" "20200601")
