@@ -22,6 +22,7 @@
 (depends-on "goto-chg" "1.6")
 (depends-on "htmlize")
 (depends-on "idle-highlight-mode")
+(depends-on "indent-guide")
 (depends-on "let-alist" "1.0.4")
 (depends-on "magit")
 (depends-on "molokai-theme")
