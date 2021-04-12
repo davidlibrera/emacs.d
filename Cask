@@ -7,6 +7,7 @@
 (depends-on "cl-lib" "0.5")
 (depends-on "dash")
 (depends-on "drag-stuff")
+(depends-on "elixir-mode")
 (depends-on "emacs" "25.1")
 (depends-on "epl" "0.5")
 (depends-on "evil")
