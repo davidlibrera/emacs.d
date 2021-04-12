@@ -29,8 +29,6 @@
       browse-url-generic-program "google-chrome")
 
 ;; Run server if not runnning, for emacsclient using
-(load "server")
-(unless (server-running-p) (server-start))
 
 ;; right CMD and ALT for special chars in italian keyboard
 (setq ns-right-alternate-modifier nil)
