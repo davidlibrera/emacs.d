@@ -11,6 +11,7 @@
 (load "configs/navigation")
 (load "configs/flx-ido")
 (load "configs/defun")
+(load "configs/smartparens")
 
 (custom-set-variables
  ;; custom-set-variables was added by Custom.
