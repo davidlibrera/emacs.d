@@ -10,6 +10,7 @@
 (load "configs/evil")
 (load "configs/navigation")
 (load "configs/flx-ido")
+(load "configs/defun")
 
 (custom-set-variables
  ;; custom-set-variables was added by Custom.
