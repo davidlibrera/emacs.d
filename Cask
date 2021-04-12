@@ -39,6 +39,7 @@
 (depends-on "smartparens")
 (depends-on "smex")
 (depends-on "transient" "20200601")
+(depends-on "undo-tree")
 (depends-on "use-package")
 (depends-on "web-mode")
 (depends-on "with-editor" "20200522")
