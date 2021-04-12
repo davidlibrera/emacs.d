@@ -12,6 +12,7 @@
 (load "configs/flx-ido")
 (load "configs/defun")
 (load "configs/smartparens")
+(load "configs/key-bindings")
 
 (custom-set-variables
  ;; custom-set-variables was added by Custom.
