@@ -19,6 +19,7 @@
 
 (load "modes/slim-mode")
 (load "modes/web-mode")
+(load "modes/js-mode")
 
 (custom-set-variables
  ;; custom-set-variables was added by Custom.
