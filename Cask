@@ -21,6 +21,7 @@
 (depends-on "git-commit" "20200516")
 (depends-on "goto-chg" "1.6")
 (depends-on "haml-mode" "3.0.15")
+(depends-on "helm")
 (depends-on "htmlize")
 (depends-on "idle-highlight-mode")
 (depends-on "indent-guide")
