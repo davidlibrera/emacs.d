@@ -16,6 +16,7 @@
 (load "configs/undo-tree")
 (load "configs/smart-tab")
 (load "configs/indent-guide")
+(load "configs/yasnippet")
 
 (load "modes/slim-mode")
 (load "modes/web-mode")

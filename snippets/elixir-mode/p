@@ -1,0 +1,4 @@
+#name : puts text
+#group : general
+# --
+IO.puts "${1:}"$0

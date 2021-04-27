@@ -1,0 +1,4 @@
+#name : print variable name and inspected contents
+#group : general
+# --
+IO.puts "${1:}: #{inspect($1, [pretty: true, width: 0])}"$0
