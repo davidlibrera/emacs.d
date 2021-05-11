@@ -1,4 +1,4 @@
-#name : print variable name and inspected contents
+#name : insert pry
 #group : general
 # --
 require IEx; IEx.pry
