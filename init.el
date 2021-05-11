@@ -5,23 +5,23 @@
 
 (add-to-list 'load-path "~/.emacs.d/elisp/")
 
+(load "configs/defun")
+(load "configs/evil")
+(load "configs/flx-ido")
 (load "configs/global-setup")
 (load "configs/gui-config")
-(load "configs/evil")
-(load "configs/navigation")
-(load "configs/flx-ido")
-(load "configs/defun")
-(load "configs/smartparens")
-(load "configs/key-bindings")
-(load "configs/undo-tree")
-(load "configs/smart-tab")
 (load "configs/indent-guide")
+(load "configs/key-bindings")
+(load "configs/navigation")
+(load "configs/smart-tab")
+(load "configs/smartparens")
+(load "configs/undo-tree")
 (load "configs/yasnippet")
 
-(load "modes/slim-mode")
-(load "modes/web-mode")
 (load "modes/js-mode")
 (load "modes/ruby-mode")
+(load "modes/slim-mode")
+(load "modes/web-mode")
 
 (custom-set-variables
  ;; custom-set-variables was added by Custom.
