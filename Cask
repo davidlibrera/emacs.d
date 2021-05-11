@@ -1,6 +1,7 @@
 (source gnu)
 (source melpa)
 
+(depends-on "all-the-icons")
 (depends-on "ansi" "0.4.1")
 (depends-on "async" "1.9.4")
 (depends-on "bind-key")
@@ -31,6 +32,7 @@
 (depends-on "magit")
 (depends-on "molokai-theme")
 (depends-on "multiple-cursors")
+(depends-on "neotree")
 (depends-on "nyan-mode")
 (depends-on "package-build" "1.2")
 (depends-on "pallet")
