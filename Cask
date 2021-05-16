@@ -1,6 +1,7 @@
 (source gnu)
 (source melpa)
 
+(depends-on "ag")
 (depends-on "all-the-icons")
 (depends-on "ansi" "0.4.1")
 (depends-on "async" "1.9.4")
