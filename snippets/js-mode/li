@@ -1,0 +1,4 @@
+#name : log variable name and inspected contents witn console.log
+#group : general
+# --
+console.log("${1:}", $1)$0

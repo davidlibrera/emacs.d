@@ -1,0 +1,4 @@
+#name : print a message in console
+#group : general
+# --
+console.log("${1:}")$0
