@@ -1,6 +1,7 @@
 (source gnu)
 (source melpa)
 
+(depends-on "ace-jump-mode")
 (depends-on "ag")
 (depends-on "all-the-icons")
 (depends-on "ansi" "0.4.1")

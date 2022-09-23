@@ -1,4 +1,3 @@
-
 (setq warning-suppress-log-types '((package reinitialization)))
 (require 'cask "/opt/homebrew/Cellar/cask/0.8.8/cask.el")
 (cask-initialize)
@@ -19,6 +18,7 @@
 (load "configs/smartparens")
 (load "configs/undo-tree")
 (load "configs/yasnippet")
+(load "configs/ace-jump")
 
 (load "modes/js-mode")
 (load "modes/ruby-mode")
@@ -31,7 +31,7 @@
  ;; Your init file should contain only one such instance.
  ;; If there is more than one, they won't work right.
  '(package-selected-packages
-   '(solarized-theme ag all-the-icons neotree rspec-mode helm sass-mode indent-guide slim-mode smart-tab undo-tree elixir-mode evil molokai-theme yasnippet web-mode use-package smex smartparens projectile prodigy popwin pallet nyan-mode multiple-cursors magit idle-highlight-mode htmlize flycheck-cask expand-region exec-path-from-shell drag-stuff)))
+   '(ace-jump-mode solarized-theme ag all-the-icons neotree rspec-mode helm sass-mode indent-guide slim-mode smart-tab undo-tree elixir-mode evil molokai-theme yasnippet web-mode use-package smex smartparens projectile prodigy popwin pallet nyan-mode multiple-cursors magit idle-highlight-mode htmlize flycheck-cask expand-region exec-path-from-shell drag-stuff)))
 (custom-set-faces
  ;; custom-set-faces was added by Custom.
  ;; If you edit it by hand, you could mess it up, so be careful.
